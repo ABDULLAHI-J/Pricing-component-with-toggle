@@ -8,10 +8,10 @@ let monthly = document.querySelectorAll(".price-monthly");
 let yearly = document.querySelectorAll(".price-anually");
 
 // list for monthly
-let listForMonthly = document.querySelectorAll("#list-for-monthly");
+let listForMonthly = document.querySelectorAll(".list-for-monthly");
 
 // list for Anually
-let listForAnually = document.querySelectorAll("#list-for-anually");
+let listForAnually = document.querySelectorAll(".list-for-anually");
 
 // function to controll the behaviour of the checked in the state of checked or unchecked
 anually_Monthly_Toggle.addEventListener("change", () => {
